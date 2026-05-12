@@ -1,0 +1,2 @@
+date,task,tool_used,estimated_minutes,actual_minutes,money_saved_usd,value_at_stake_usd,hidden_labor_score_1_to_5,cognitive_load_1_to_5,risk_score_1_to_5,skill_compounding_1_to_5,decision,stop_condition,notes
+2026-05-12,Example: compare flight options,ChatGPT,30,55,75,300,4,3,1,1,stop,Stop after 3 credible options,Search time started exceeding savings.
